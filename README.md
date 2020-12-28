@@ -1,4 +1,4 @@
-# google-java-format
+# google-java-reformat
 
 `google-java-reformat` is a program that reformats Java source code to comply with
 [Google Java Style][].
